@@ -5,7 +5,6 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>osu.Android</RootNamespace>
     <AssemblyName>osu.Android</AssemblyName>
-    <UseMauiEssentials>true</UseMauiEssentials>
 
     <!-- This currently causes random lockups during gameplay. https://github.com/mono/mono/issues/18973 -->
     <EnableLLVM>false</EnableLLVM>
